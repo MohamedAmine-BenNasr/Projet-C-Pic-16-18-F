@@ -1,0 +1,12 @@
+
+"""""""""""""""""""""""""""""""""""""""""journal lumineux ISIMM 2015"""""""""""""""""""""""""""""""""""""""
+
+-interface labview pour la commande 
+-transmition sans fil pc->carte mére <<xbee>> on peut intégrer aussi (RS 232/TLL,module RF,module gsm,
+-les trois cartes esclaves (uln 2308,registre a décalge 74HCT164).
+-CARTE mére pour la commande des matrix leds.
+-ALIMENTATION 5V 
+-pour mieux cablés les cartes ,veuillez consulter les montages sur isis et le routage des cartes sur ares 
+
+j'espére aidé
+Mohamed Amine Ben Nasr
